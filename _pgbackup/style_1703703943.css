@@ -1,0 +1,8 @@
+.bg-pattern {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    height: 35vh;
+    transform-origin: 100% 100%;
+    transform: translate(-30%, -120%) rotate(-45deg);
+}
