@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.bg-pattern {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    height: 35vh;
+    transform-origin: 100% 100%;
+    transform: translate(-30%, -100%) rotate(-45deg);
+    min-height: 175%;
+    max-height: 175%;
+}
+
+.service-button {
+    margin: 20px;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: #09577b;
+    border: none;
+}
+
+
